@@ -2,7 +2,7 @@
 
 namespace ProyectoIntegrado
 {
-	class Proyecto
+	class MainClass
 	{
 		public static void Main (string[] args)
 		{
