@@ -7,6 +7,7 @@ namespace ProyectoIntegrado
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hello World!");
+			Console.WriteLine ("Se arreglaron cosas");
 			Console.ReadLine ();
 		}
 	}
